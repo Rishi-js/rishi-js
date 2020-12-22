@@ -1,16 +1,27 @@
-### Hi there 👋
+👾 
 
-<!--
-**Rishi-js/rishi-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I’m Rishikesh.
 
-Here are some ideas to get you started:
+I’m a student, designer and a writer. I am currently living in Mumbai. Right now I’m building some fun projects at GitHub. Let’s grab a coffee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[More about me &rarr;](https://rishisvn.me/about) <br />
+[My personal website](https://rishisvn.me/) <br />
+[@rishikekw on Twitter &rarr;](https://twitter.com/rishikekw)
+
+### Writing
+I like to express my ideas on my projects, productivity and general stuff.
+
+[Read some posts &rarr;](https://rishisvn.me/essays)
+
+### Mini projects
+Small just-for-fun weekend projects I've been tinkering with.
+
+[Some page](Insert link here) - Page description<br />
+[Some page](Insert link here) - Page description<br />
+[Some page](Insert link here) - Page description.
+
+### Designs
+My love for web development stemmed from my love for designs. All my designs are public which I created for fun.
+
+[The designs &rarr;](link)<br />
+[Code for the site &rarr;](link)
