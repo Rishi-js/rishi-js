@@ -14,7 +14,7 @@ I like to express my ideas on my projects, productivity and general stuff.
 [Read some posts &rarr;](https://rishisvn.me/essays)
 
 ### Mini projects
-Small just-for-fun weekend projects I've been tinkering with.
+These are the projects I do for fun. If you love them, I would like to get some feedback from you.
 
 [Some page](Insert link here) - Page description<br />
 [Some page](Insert link here) - Page description<br />
